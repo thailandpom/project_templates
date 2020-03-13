@@ -12,12 +12,12 @@
                     <!-- Sign In Block -->
                     <div class="block block-rounded block-transparent block-fx-pop w-100 mb-0 overflow-hidden bg-image" style="background-image: url('{{asset('/assets/images/contact_img.png')}}');">
                         <div class="row justify-content-center">
-                            <div class="col-md-12 order-md-1 bg-white">
+                            <div class="col-md-12 order-md-1 bg-black">
                                 <div class="block-content block-content-full px-lg-5 py-md-5 py-lg-6 login">
                                     <!-- Header -->
                                     <div class="mb-2 text-center">
                                         <a class="link-fx font-w700 font-size-h1" href="#">
-                                            <img class="img-logo"  src="{{asset('/assets/icon/logojetsada.png')}}" style="height: 108px;">
+                                            <img class="img-logo"  src="{{asset('front-ends-assets/images/logojetsada.svg')}}" style="height: 108px;">
                                         </a>
                                         <h3 class="text-uppercase font-w700 text-muted pt-2">ลงชื่อเข้าใช้งานระบบ</h3>
                                     </div>

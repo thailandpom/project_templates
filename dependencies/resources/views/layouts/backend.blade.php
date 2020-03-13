@@ -10,7 +10,7 @@
   <title>Backend | Welovejetsadabet</title>
   @yield('meta-tag')
   <meta name="robots" content="index, follow">
-  <meta property="og:site_name" content="Degito Bangkok" />
+  <meta property="og:site_name" content="" />
   <link rel="canonical" href="" />
   {{--  <link href="{{asset('/assets/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css">  --}}
   <link rel="stylesheet" href="{{asset('/assets/js/plugins/dropzone/dist/min/dropzone.min.css')}}">

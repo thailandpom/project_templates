@@ -26,3 +26,6 @@
 .new-color:hover, .new-color:active, .new-color:focus, .new-color:focus-within, .new-color:visited {
   background-color: #e04f1a !important;
 }
+table {
+  display: table !important;
+}

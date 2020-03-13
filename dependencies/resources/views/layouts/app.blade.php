@@ -7,12 +7,12 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <link rel="shortcut icon" href="">
-  <title>Backend - Degitobangkok</title>
-  <meta name="description" content="รับทำเว็บไซต์ ออกแบบเว็บไซต์ Web Design and Mobile Application Development">
-  <meta name="author" content="DEGITO Bangkok by Miratara Co., Ltd.">
-  <meta name="keywords" content="รับทำเว็บไซต์, Web Design Thailand, ออกแบบเว็บไซต์, Mobile Application, Web Design company, Web Development, Digital agency, Creative agency, Graphic designer, บริษัท ออกแบบ เว็บไซต์, award winning web agency thailand, bangkok web agency, thailand web agency, web design thailand, website design thailand, Application Design, Application Development, Hotel Website, Real Estate Website, E-commerce Website, พัฒนาเว็บไซต์, รับทำเว็บ">
+  <title>Backend - Welovejetsadabet</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <meta name="keywords" content="">
   <meta name="robots" content="index, follow">
-  <meta property="og:site_name" content="Degito Bangkok" />
+  <meta property="og:site_name" content="" />
   <link rel="canonical" href="" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
   <link rel="stylesheet" id="css-theme" href="{{ asset('/assets/css/dashmix.css') }}">  
